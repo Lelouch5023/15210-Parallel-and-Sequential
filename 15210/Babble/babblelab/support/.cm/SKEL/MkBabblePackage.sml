@@ -1,0 +1,2 @@
+Skeleton 5
+ae"MkBabblePackage"i4aдўTok"gp1c"TOKEN"aдўSeq"gp1c"SEQUENCE"aдўRand"gp1c"RANDOM210"f2d"String"d"TextIO"jh7бязр±ябя(зр±я(CaдўUtil"jh1яЃ2gp1e"MkSeqUtil"aдўTokSeqElt"jh2aдўElt"gp2яя‚)яЃ2gp1e"MkSeqElt"aдўTokSeqTable"jh2ad"Tree"jh1ad"HashKey"gp1я‚gp1e"MkTreap"яЃ2gp1e"MkBSTTable"aдўData"jh3бяЃ<зр±яЃ<яЃ*ad"Table"gp1яѓ	gp1e"MkKGramData"ad"Babble"jh3aя=gp1я=aя„gp1я„я„!gp1e"MkBabble"Ngp1c"BABBLE_PACKAGE"

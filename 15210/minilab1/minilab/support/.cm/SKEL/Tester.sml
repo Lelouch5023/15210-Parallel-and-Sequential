@@ -1,0 +1,3 @@
+Skeleton 5
+d4aä¢TesterHelper"h4aä¢BareSeq"gp1d"BareArraySequence"aä¢RefPartSeq"jè±áÿçğ±ÿgp1e"RefMkPartialArraySequence"aä¢StuPartSeq"jÿgp1e"MkPartialArraySequence"bd2eçğ±ÿ7f2ä¢Int"ä¢String"f4ÿ‚'ä¢Bool"d"Real"ÿ‚-ad"PartSeqTester"h6åçğ±ä¢StudentTestSuite"Cåçğ±ÿæµÃÿ‚'ä¢Tester"ä¢Tests"ä¢Checker"ä¢Logger"Naå¢MkAutoPartSeq"i1aä¢PartSeq"gp1c"PARTIALSEQUENCE"h2egp1ÿ„<f2ÿ‚'ÿ‚;ad"RefAutoPartSeq"jh1aÿ„<ÿ‚ çğ±ÿ„)ad"StuAutoPartSeq"jh1aÿ„<gp1ÿ/ÿ†Nad"SeqFunTester"h8ÿƒÿƒ7ÿƒ=Caå¢MkAutoSeqFun"i2aä¢SeqFun"gp1c"SEQFUN"f1ÿ‡ è0aä¢RefSeqFun"jè±áä¢Seq"ÿ‚ gp1e"RefMkSeqFun"aä¢StuSeqFun"jÿˆ
+gp1e"MkSeqFun"ad"RefAutoSeqFun"jh1aÿ‡ gp1ÿ‡=çğ±ÿ‡ad"StuAutoSeqFun"jh1aÿ‡ gp1ÿˆ(ÿ‰$Naÿ„ÿ‡:
